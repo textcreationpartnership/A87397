@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves for the citizens of London from the Princes fleet at sea; wherein is communicated, the the [sic] full particulars of a great victory obtained, the dispiersing of the Navy, and beating them into severall harbours; the taking of thirty ships and frigats, two hundred pieces of ordnance, and above four hundred prisoners. The rising of a new army in Ireland, for Prince Charles, consisting of twenty thousand and their declaration and letter sent to his Highness shewing their present resolution and intentions. With the further proceedings of the Prince, and the Scots, the preparations against England, and the buying of ten thousand armes in Holland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87397</idno>
+            <idno type="STC">Wing J1134</idno>
+            <idno type="STC">Thomason E561_4</idno>
+            <idno type="STC">ESTC R206000</idno>
+            <idno type="EEBO-CITATION">99865209</idno>
+            <idno type="PROQUEST">99865209</idno>
+            <idno type="VID">165210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E561[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves for the citizens of London from the Princes fleet at sea; wherein is communicated, the the [sic] full particulars of a great victory obtained, the dispiersing of the Navy, and beating them into severall harbours; the taking of thirty ships and frigats, two hundred pieces of ordnance, and above four hundred prisoners. The rising of a new army in Ireland, for Prince Charles, consisting of twenty thousand and their declaration and letter sent to his Highness shewing their present resolution and intentions. With the further proceedings of the Prince, and the Scots, the preparations against England, and the buying of ten thousand armes in Holland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year year [sic], 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165210:1" rendition="simple:additions"/>
+            <p>JOYFULL NEVVES For the Citizens of LONDON</p>
+            <p>From the Princes Fleet at Sea; Wherein is communicated, the The full particulars of a great Victory obtained, the diſpierſing of the Navy, and beating them into ſeverall Harbours; the taking of thirty ſhips and Fri<g ref="char:EOLhyphen"/>gats, two hundred pieces of Ordnance, and above four hundred priſoners. The riſing of a new Army in <hi>Ireland,</hi> for Prince <hi>Charles</hi> conſiſting of twenty thouſand and their Declaration and Letter ſent to his Highneſs ſhewing their preſent Reſolution and Intentions. With the further proceedings of the Prince, and the Scots, the preparations againſt England, and the buying of ten thou<g ref="char:EOLhyphen"/>ſand Armes in Holland.</p>
+            <figure/>
+            <p>Printed in the year Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165210:2"/>
+            <pb n="1" facs="tcp:165210:2"/>
+            <head>JOYFULL NEWES For the Citiſens of LONDON <hi>FROM</hi> The Princes Fleet at Sea; Wherein is communicated, the great Victory obtained, the full particulars thereof, the diſpierſing of the Navy, and forcing them in to ſeverall Harbours, &amp;c.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon a late diſpute and engagement between the two Navyes at Sea, great was the reſolution and gallantry on both ſides; and for the ſpace of ma<g ref="char:EOLhyphen"/>ny hours the Victory ſeemed doubtfull; but in the heat of the Conflict, Divine providence proved a Banner to the Par<g ref="char:EOLhyphen"/>liaments party, and Fortune ſo attended their ſeverall mo<g ref="char:EOLhyphen"/>tions in their heroick atchievements, that they ſoon became Victors over their inſulting Enemies, and in a ſhort ſpace
+<pb n="2" facs="tcp:165210:3"/>diſpierſed that formidable Fleet, who for many moneths have lain raging upon the Neptune Seas, and forbed the two unfortunate Princes to take ſanctuary in Harbours; ſo that now the Citiſens of <hi>London</hi> may receive comfort from the Ocean, and the Marchants and others proceed unanimouſly in free Trade and Commerce without fear or moleſtation; The faciliating whereof, may cauſe thouſands to rejoyce, and ſing hallelujah, for the vanquiſhing of this potent Ene<g ref="char:EOLhyphen"/>my; it being affirmed, that ſince our firſt engagement with them we have re taken above 30 ſhips and prizes, 200 pie<g ref="char:EOLhyphen"/>ces of Ordrance, and at leaſt 400 priſoners. We hear that Prince <hi>Charles</hi> upon the 15 inſtant, with the Prince, and Prin<g ref="char:EOLhyphen"/>ceſſe royall about ſixe of the clock in the morning went to Dort, ſo far the Queen of Bohemia, brought him on his way. The 11th of June the Electoreſſe of Brandenburg, went toward Cleave, by Vionen, Rhenea The 17th of June, Prince Charles went from Breda toward Bruxels; where an Earl hath order to receive his highneſs. Therr is a Col. left in the <hi>Hague,</hi> who is to buy arms for ten thouſand men. There paſſing a boat from England to Oſtend, with divers Engliſh they were ſet upon by ſome Engliſh, who lie there and rove to get booty. The Paſſengers were in great fear at which one of them ſtood up, and ſaid to the Pyrats, I have lately broke out of New gate, being a priſoner for King <hi>Charles,</hi> and theſe are all my friends, therefore do them no harm? at which they cryed, <hi>Vive la Roy,</hi> and bid them paſſe there ſhould none of them be toucht.</p>
+               <p>They tell us that come from Edenburgh, that Scotland is quiet, and that the Parl. hath no enemy in arms, in any part of that Kingdom, which is ſufficiently confirmed by the ſoul<g ref="char:EOLhyphen"/>diers beginning to be unruly and unſeparable concomitant to idleneſſe, which hath been complained of by the Parl, and Miniſters, which occaſioned the Gen. Excellency, the E. of
+<pb n="3" facs="tcp:165210:3"/>Levin, write to the Liev. Gen. that there might be a meeting of all the chief officers, for redreſſe or all grievances, and for ordering matters, ſo that nothing might obſtruct the work in hand: the particular which fercht in this Gen, was that there were Engliſh Cavaliers ſcattered up and downe in the army, ſome whereof had entertainment, others ſhelter which actions it were neceſſary to remove, and retain only thoſe who of them were honeſt Covenanters. There is diſ<g ref="char:EOLhyphen"/>pleaſure taken, that letters between Newcaſtle and this place going for Scotland, were intercepted and opened, which is likely to procure the like, and is already threatned; diſplea<g ref="char:EOLhyphen"/>ſure is apt to catch: Dr. Sibbald the Phiſitian, is diſcharged of his impriſonmen. upon the Fine of 500. Scotch marks, he ſaith let them take what they wil, he wil not recant his pa<g ref="char:EOLhyphen"/>per, and will rather chooſe to ſuffer the moſt ignominious death at the openeſt plece in Edenburgh.</p>
+               <p>The Gent. that brought the letter from Parl. of England, of having neither countenance nor anſwer, nor is like to have if the deportment be evidence of reſpect to this nation, ther's little if an anſwer ſhould be returned, as it's unlikely, or not like to be ſodain, it wil be ſent in all probability by meſſen<g ref="char:EOLhyphen"/>gers of their own.</p>
+               <p>The Commiſ. are at laſt returned from their declared King and landed at Kirkaldy: the pure Royaliſts ſay that there is no agreement brought (whether with joy or ſorrow theſe expreſſions are made appear not the Sages and know<g ref="char:EOLhyphen"/>ing Divines ſeem chearfull and expreſſe that Scotland hath cauſe to bleſſe God for the great condiſcention or ſo much compliance in their King, and this ſeems to be the more pro<g ref="char:EOLhyphen"/>bable; yer ſome begin to think it may now be in their power to act or ſpeak at leaſt in favor of their friends in England.</p>
+               <closer>
+                  <dateline>
+                     <hi>Berwick</hi> 
+                     <date>
+                        <hi>the 18 Iune 1649.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:165210:4"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THE Lord <hi>Louthian,</hi> and the reſt of the Commiſſio<g ref="char:EOLhyphen"/>ners are returned from the young King, with a meſ<g ref="char:EOLhyphen"/>ſage and anſwer to the Propoſals and Deſires of the Parliament; wherein he declares, <hi>That he is willing to give his Condeſcenſions to thoſe things, which may ſtand with his honour and ſafety, and the liberty and freedom of his people, but doth wholly decline the taking of the Covenant, or to grant to what they last delivered in, ſaying, That for the eſtabliſhing of the Presbyterian Government, the granting of a generall Act of Oblivion, and the compoſing of all differences whatſoever vnhappily ſown and ſprun vp amongst his people, he will give his Royall aſſent therevnto and therefore requires them to hear<g ref="char:EOLhyphen"/>ken to him, and not to proceed no further in contest, He being aſſured, that he had friends enough amongſt them, that would joyn with him, and endeavor the ſacrificing of all that was neer and deer vnto them, for his juſt reſtitution, in reſtoring of him to his Throne and Dignity.</hi>
+               </p>
+               <p>After which, his Highneſſe had a conference with the Lords of his privy Councel, wherein he further remonſtra<g ref="char:EOLhyphen"/>ted, <hi>That he conceived it requiſite to decline ſending over any forces into Scotland, vntill ſuch time that the reſult of the Par<g ref="char:EOLhyphen"/>liament was known touching his laſt Anſwer and Condeſcenſions and not to hazard an engagement with the Parliament of Eng<g ref="char:EOLhyphen"/>land and the Army, vnder the conduct of the Lord General</hi> Fairfax <hi>and Lieut. Gen.</hi> Crumwell, <hi>till the next Spring</hi>
+               </p>
+               <p>At which Conference moſt of the Nobility ſeemed to re<g ref="char:EOLhyphen"/>ſcent the ſame with great alacrity, declaring, That they did very well aprove of his Highneſſes motion, and that it would prove very prejudiciall to the advancement of his Cauſe, if they ſhould engage before he be both powerfull and po<g ref="char:EOLhyphen"/>tent.</p>
+               <p>But indeed there is little probability of faciliating that
+<pb n="4" facs="tcp:165210:4"/>Deſign; for we hear that their diſplaying of the Royal game at Sea hath quite broken the neck of their deſign at land, &amp; that upon their loſing of ſo many brave ſhips and prizes, many hundreds aſhore have wholly deſerted, and in ſtead of becoming maſters at Sea, and become the ſlaves thereof; inſomuch, that the coaſt is cleer, and commerce free for the Citiſens of <hi>London,</hi> which otherwiſe might have been ob<g ref="char:EOLhyphen"/>ſtructed.</p>
+               <closer>
+                  <dateline>
+                     <hi>Berwick</hi> 
+                     <date>15. June. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <div type="letter">
+               <p>Sir, Since the receipt of the laſt meſſage from the young King, to the Parliament, in anſwer to their former Propo<g ref="char:EOLhyphen"/>ſals and Deſires, much time hath been ſpent in debate there<g ref="char:EOLhyphen"/>of, and after ſome Reſult thereupon, voted, That the ſaid Conceſſions are unſatisfactory, and (in paat) very deſtruc<g ref="char:EOLhyphen"/>tive and prejudiciall to the peace of that Kingdome. The General Officers both of Horſe and Foot, and the major part of the Souldiery, of the Scottiſh Army, have declared, That they will in no wayes comply with the Royal party, for the eſtabliſhing of <hi>Charles</hi> the ſecond, untill ſuch time that he hath given full ſatisfaction to all intereſts whatſoe<g ref="char:EOLhyphen"/>ver, in reference to the ſafety and preſervation of their juſt Rights and Liberties; and to that end are reſolved, to keep a faire correſpondency with the Parliament and Army of England, for the prevention of future miſery, and ſuppreſſi<g ref="char:EOLhyphen"/>ng of all inſurrections. Some of the Scots horſe are ad<g ref="char:EOLhyphen"/>vanced towards the borders of England, for the inlargment of their quarters, and eaſing the oppreſſed of that Nation.</p>
+               <closer>
+                  <signed>Yours, &amp;c:</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:165210:5"/>
+               <p>There is news from Ulſter of ſpeciall note but the report goes ſeverall ways, which for more certanity a way is ta<g ref="char:EOLhyphen"/>king, ſome ſay 20000 have met together and declared for Ormond, others that they have reneued the Covenant, and upon a Declaration, ſhewing upon what terms, they will joyn with Scotland or Ormond; and have agreed that a let<g ref="char:EOLhyphen"/>ter be ſent to their King, telling him if he content not the Scots Kingdom, he is likely to loſe Ireland. From the premi<g ref="char:EOLhyphen"/>ſes where no doubt there is a vein runs through thoſe Iſland of the ſame metle, wherein, no doubt there is brimſtone or Sulpher Plenty.</p>
+               <p>Sir, Thoſe who come accidentally out of Ireland for no letters are come from Dublin ſpeak with confidence, that Owen Roe Oneal is joyn'd wit ſome 500. Col. Monk had, and they are come from Dun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alk toward Dublin; to joyne with Col. Iones and jointly to take the field againſt Ormond who is ſtill buried with taking little Garriſons: wherein he is not long. The inclination of the Souldiery, being ſo great as to be courted out of them, and perticlarly that of Donade not many miles from Dublin, is delixered up by Major Smith as the reporter ſayth.</p>
+               <closer>
+                  <dateline>
+                     <hi>Cheſter</hi> 
+                     <date>
+                        <hi>Iune</hi> 18. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
